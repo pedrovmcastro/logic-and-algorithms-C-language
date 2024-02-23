@@ -16,17 +16,17 @@ e o terceiro um ano.
 
 int main() 
 {
-   int d1, d2, m1, m2, a1, a2, greater_date;
+   int d1, d2, m1, m2, y1, y2, greater_date;
 
-   printf("First date (day, month, year - one per line):\n");
-   scanf("%d %d %d", &d1, &m1, &a1);
-   printf("Second date (day, month, year - one per line):\n");
-   scanf("%d %d %d", &d2, &m2, &a2);
+   printf("First date (year, month, day - one per line):\n");
+   scanf("%d %d %d", &y1, &m1, &d1);
+   printf("Second date (year, month, day - one per line):\n");
+   scanf("%d %d %d", &y2, &m2, &d2);
 
-   if (a1 < a2) {
+   if (y1 < y2) {
       greater_date = 2;
    }
-   else if (a1 > a2) {
+   else if (y1 > y2) {
       greater_date = 1;
    }
    else {
@@ -50,10 +50,10 @@ int main()
    }
 
    if (greater_date == 1) {
-      printf("\nGREATER = %d/%d/%d\n", d1, m1, a1);
+      printf("\nGREATER = %d/%d/%d\n", y1, m1, d1);
    }
    else if (greater_date == 2) {
-      printf("\nGREATER = %d/%d/%d\n", d2, m2, a2);
+      printf("\nGREATER = %d/%d/%d\n", y2, m2, d2);
    }
    else {
       printf("\nThe dates are equal\n");
