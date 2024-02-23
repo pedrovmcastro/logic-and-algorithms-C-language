@@ -36,9 +36,6 @@ int main()
         C = (5.0/9.0) * (F - 32);
         printf("Temperature in Celsius: %.1f\n", C);
     }
-    else {
-        printf("Invalid unit.\n");
-    }
 
     return 0;
 }
