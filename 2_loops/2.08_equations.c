@@ -1,4 +1,13 @@
 /*
+Exercise 8:
+Implement a program that computes all solutions to equations of the form
+x1 + x2 + x3 + x4 = C
+where all variables x1, . . . , x4 are non-negative integers, and C > 0 is an integer constant. 
+Enhance your program with the following ideas.
+For a fixed x1, the possible values for x2 are 0, . . . , C - x1. 
+Given x1 and x2, the possible values for x3 are 0, . . . , C - x1 - x2. 
+Given x1, x2, and x3, x4 is uniquely determined.
+
 
 (PT-BR)
 Exercício 8:
@@ -15,7 +24,7 @@ determinado.
 
 int main() {
     int C;
-    printf("Digite o valor de C: ");
+    printf("Enter the value of C: ");
     scanf("%d", &C);
 
     int x1, x2, x3, x4;

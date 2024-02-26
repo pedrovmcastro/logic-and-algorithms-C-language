@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pedro/OneDrive/Documentos/C/logic-and-algorithms-C/3_arrays",
-      "program": "c:/Users/pedro/OneDrive/Documentos/C/logic-and-algorithms-C/3_arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/pedro/OneDrive/Documentos/C/logic-and-algorithms-C/4_strings",
+      "program": "c:/Users/pedro/OneDrive/Documentos/C/logic-and-algorithms-C/4_strings/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

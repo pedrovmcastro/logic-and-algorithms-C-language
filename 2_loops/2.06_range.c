@@ -1,5 +1,16 @@
 /* 
-    
+Exercise 6:
+Write a program to read n floating-point numbers and print how many of them fall within the following ranges:
+[0 . . . 25], [26 . . . 50], [51 . . . 75], and [76 . . . 100]. 
+For example, for n = 10 and the following ten numbers: 2.0, 61.5, -11.0, 0.0, 88.7, 94.5, 55.0, 3.1415, 25.5, 75.0,
+your program should print:
+
+    Range [0..25]: 3
+    Range [26..50]: 0
+    Range [51..75]: 3
+    Range [76..100]: 2
+
+
 (PT-BR)
 Exercício 6:
 Escreva um programa para ler n de nÚmeros do tipo float e imprimir quantos deles estão

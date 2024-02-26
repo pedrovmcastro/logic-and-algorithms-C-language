@@ -1,4 +1,16 @@
 /* 
+Exercise 12:
+Create a program that reads a number n and prints n lines on the screen with the following
+format (example if n = 6):
+
++ * * * * *
+* + * * * *
+* * + * * *
+* * * + * *
+* * * * + *
+* * * * * +
+
+
 (PT-BR)
 Exercício 12:
 Faça um programa que leia um número n e imprima n linhas na tela com o seguinte
@@ -19,6 +31,7 @@ int main()
 {
     int n;
 
+    printf("Enter a number: ");
     scanf("%d", &n);
 
     for (int i = 0; i <= n; i++) {
