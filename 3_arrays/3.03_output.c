@@ -1,19 +1,11 @@
 /*
+Exercise 3:
+What is the output printed by following program?
+
+
 (PT-BR)
 Exercício 3:
-Faça um programa que gere a seguinte saída utilizando loops:
-
-98765432
-512
-256
-128
-64
-32
-16
-8
-4
-2
-
+Qual saída é impressa nesse programa?
 */
 
 #include <stdio.h>
@@ -44,3 +36,24 @@ int main()
         printf("%d\n", v2[j]);
     }
 }
+
+/*
+Answer:
+
+
+
+
+
+
+
+98765432
+512
+256
+128
+64
+32
+16
+8
+4
+2
+*/

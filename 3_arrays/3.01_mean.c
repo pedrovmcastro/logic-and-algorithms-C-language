@@ -1,4 +1,8 @@
 /*
+Exercise 1:
+Implement a program that reads an array at most 50 float numbers and calculates the arithmetic mean of these values.
+
+
 (PT-BR)
 Exercício 1:
 Escreva um programa que leia um vetor de até 50 números reais e calcule a média destes valores.
