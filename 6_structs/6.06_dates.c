@@ -1,5 +1,5 @@
 /*
-Exercise 5:
+Exercise 6:
 Suppose we create a structure to store dates:
 
 typedef struct {
@@ -15,7 +15,7 @@ Hint: Sort the array separately for each of the fields.
 
 
 (PT-BR)
-Exercício 5:
+Exercício 6:
 Suponha que criamos uma estrutura para armazenar Datas:
 typedef struct Data{
 int dia;

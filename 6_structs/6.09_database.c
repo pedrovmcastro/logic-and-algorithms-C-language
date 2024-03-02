@@ -1,5 +1,5 @@
 /*
-Exercise 8:
+Exercise 9:
 Suppose we create a structure to store individual's data and another structure to store data for multiple individuals as a database.
 
 typedef struct Person{
@@ -34,7 +34,7 @@ Create functions for each of the operations below:
 
 
 (PT-BR)
-Exercício 8:
+Exercício 9:
 Suponha que criamos uma estrutura para armazenar dados de pessoas e uma outra estrutura para armazenar dados de várias pessoas
 como uma base de dados.
 

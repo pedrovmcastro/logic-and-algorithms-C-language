@@ -1,5 +1,5 @@
 /*
-Exercise 7:
+Exercise 8:
 Suppose we create a structure to store personal data and an array to store data from several individuals:
 
 typedef struct {
@@ -14,7 +14,7 @@ returns its index, and returns -1 if there is no person with the specified ID.
 
 
 (PT-BR)
-Exercício 7:
+Exercício 8:
 Suponha que criamos uma estrutura para armazenar dados de pessoas e um vetor para
 armazenar dados de várias pessoas:
 typedef struct Pessoa{

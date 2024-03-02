@@ -1,5 +1,5 @@
 /*
-Exercise 6:
+Exercise 7:
 Create a structure representing students in a specific course. The structure should include the student's enrollment number, name,
 grade on the first test, grade on the second test, and grade on the third test.
 (a) Allow the user to enter data for 5 students.
@@ -9,7 +9,7 @@ grade on the first test, grade on the second test, and grade on the third test.
 
 
 (PT-BR)
-Exercício 6:
+Exercício 7:
 Crie uma estrutura representando os alunos de um determinado curso. A estrutura deve
 conter a matrícula do aluno, nome, nota da primeira prova, nota da segunda prova e nota
 da terceira prova.

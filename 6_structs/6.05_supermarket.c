@@ -1,5 +1,5 @@
 /*
-Exercise 4:
+Exercise 5:
 Suppose we create a structure to store supermarket products:
 
 typedef struct Product{
@@ -15,7 +15,7 @@ void sortQuantity(Product arr[], int n);
 
 
 (PT-BR)
-Exercício 4:
+Exercício 5:
 Suponha que criamos uma estrutura para armazenar produtos de um supermercado:
 
 typedef struct Produto{
