@@ -50,7 +50,7 @@ int main()
         }
     }
 
-    multiplica(mat1, mat2, matRes, n);
+    multiply(mat1, mat2, matRes, n);
 
     printf("Result matrix:\n");
     for (int i = 0; i < n; i++) {
